@@ -11,12 +11,12 @@
 
 ## 🌐 Socials:
 <p align="left">
-<a href="https://www.linkedin.com/in/abdelhamid-ebrahim" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:abdelhamidebrahim2004@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
-</a>
+  <a href="https://www.linkedin.com/in/abdelhamid-ebrahim" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:abdelhamidebrahim2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
@@ -51,11 +51,8 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Abdelhamid27&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=Abdelhamid27&theme=radical&hide_border=false" alt="Streak Stats" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Abdelhamid27&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Abdelhamid27&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true&hide_rank=true&hide=prs,issues" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Abdelhamid27&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=html,css" alt="Top Languages" width="49%" />
 </p>
 
 ---
