@@ -1,10 +1,11 @@
-# 💫 About Me:
-🔭 I’m currently developing **production-ready Machine Learning workflows, REST APIs with FastAPI, and executive Power BI dashboards**.
-👯 I’m looking to collaborate on **applied AI systems, scalable Computer Vision/NLP applications, and open-source data analytics toolkits**.
-🤝 I’m looking to connect regarding **enterprise MLOps pipelines, distributed model training, and AWS cloud-native deployments**.
-🌱 I’m currently conducting **graduate research in advanced statistical modeling and exploring LLM fine-tuning & agentic workflows**.
-💬 Ask me about **end-to-end ML architectures, SQL & ETL engineering, predictive modeling, and deep business intelligence with DAX**.
-⚡ Fun fact **To me, raw and messy datasets aren't problems—they're just high-impact business decisions waiting to be unlocked.**
+### 💫 About Me:
+
+- 🔭 I’m currently developing **production-ready Machine Learning workflows, REST APIs with FastAPI, and executive Power BI dashboards**.
+- 👯 I’m looking to collaborate on **applied AI systems, scalable Computer Vision/NLP applications, and open-source data analytics toolkits**.
+- 🤝 I’m looking to connect regarding **enterprise MLOps pipelines, distributed model training, and AWS cloud-native deployments**.
+- 🌱 I’m currently conducting **graduate research in advanced statistical modeling and exploring LLM fine-tuning & agentic workflows**.
+- 💬 Ask me about **end-to-end ML architectures, SQL & ETL engineering, predictive modeling, and deep business intelligence with DAX**.
+- ⚡ Fun fact: **To me, raw and messy datasets aren't problems—they're just high-impact business decisions waiting to be unlocked.**
 
 ---
 
