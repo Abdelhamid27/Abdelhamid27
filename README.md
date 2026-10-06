@@ -51,8 +51,8 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Abdelhamid27&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true&hide_rank=true&hide=prs,issues" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Abdelhamid27&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=html,css" alt="Top Languages" width="49%" />
+  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=Abdelhamid27&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true&hide_rank=true&hide=prs,issues,stars" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Abdelhamid27&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=html,css" alt="Top Languages" />
 </p>
 
 ---
